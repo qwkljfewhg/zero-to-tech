@@ -5,3 +5,4 @@ import { initScoreAnim } from "./score.js";
 initNav();
 initCardsAnim();
 initScoreAnim();
+
